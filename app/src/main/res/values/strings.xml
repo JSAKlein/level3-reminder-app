@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Level 3 Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_reminder">Give a Reminder</string>
+    <string name="title_activity_add">Add Activity</string>
+    <string name="reminder">Reminder</string>
+</resources>
